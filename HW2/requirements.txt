@@ -1,0 +1,9 @@
+moviepy==1.0.3
+numpy==1.25.2
+gymnasium[mujoco]
+tensorboard==2.10.0
+tensorboardX==2.5.1
+torch==1.12.1
+pyvirtualdisplay
+IPython
+gym-notebook-wrapper
