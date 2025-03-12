@@ -1,0 +1,6 @@
+README.md
+setup.py
+cs558.egg-info/PKG-INFO
+cs558.egg-info/SOURCES.txt
+cs558.egg-info/dependency_links.txt
+cs558.egg-info/top_level.txt
