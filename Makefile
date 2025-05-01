@@ -31,7 +31,7 @@ sanity-test: build-sanity-scenarios
 		--forked \
 		--dist=loadscope \
 		--junitxml="sanity_test_result.xml" \
-		-n `expr \( \`nproc\` \/ 2 \& \`nproc\` \> 3 \) \| 2` \
+		-n 2 \
 		./smarts/core/tests/test_python_version.py::test_python_version \
 		./smarts/core/tests/test_sumo_version.py::test_sumo_version \
 		./smarts/core/tests/test_dynamics_backend.py::test_set_pose \
