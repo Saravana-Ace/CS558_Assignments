@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # SMARTS
 [![SMARTS CI Base Tests Linux](https://github.com/huawei-noah/SMARTS/actions/workflows/ci-base-tests-linux.yml/badge.svg?branch=master)](https://github.com/huawei-noah/SMARTS/actions/workflows/ci-base-tests-linux.yml?query=branch%3Amaster) 
 [![SMARTS CI Format](https://github.com/huawei-noah/SMARTS/actions/workflows/ci-format.yml/badge.svg?branch=master)](https://github.com/huawei-noah/SMARTS/actions/workflows/ci-format.yml?query=branch%3Amaster)
@@ -36,3 +37,6 @@ If you use SMARTS in your research, please cite the [paper](https://arxiv.org/ab
     month={11}
 }
 ```
+=======
+# CS558_Assignments
+>>>>>>> d193b7c3f29d49b33e2e27945d00926d74c9d73d
